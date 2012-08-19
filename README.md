@@ -1,6 +1,5 @@
 ### ***sorting***
 __[Bubble Sort](http://en.wikipedia.org/wiki/Bubble_sort) and [Insertion Sort](http://en.wikipedia.org/wiki/Insertion_sort) are currently supported__  
-<sup>licensed under the <a href="http://sam.zoy.org/wtfpl/">WTFPL</sup>  
 
 ---
 ### ***building***
@@ -8,4 +7,5 @@ __[Bubble Sort](http://en.wikipedia.org/wiki/Bubble_sort) and [Insertion Sort](h
 `clang -c sorting.c -o`  
 This should compile into a 'sorting.o' file which you can link with whatever binary you would like.  
 
----
+---  
+<sup>licensed under the <a href="http://sam.zoy.org/wtfpl/">WTFPL</sup>
