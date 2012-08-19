@@ -5,7 +5,7 @@ __[Bubble Sort](http://en.wikipedia.org/wiki/Bubble_sort) and [Insertion Sort](h
 ### ***building***
 #### ***run:***
 `clang -c sorting.c -o`  
-This should compile into a 'sorting.o' file which you can link with whatever binary you would like.  
+This should compile into a 'sorting.o' file which you can link with whatever binary you would like. Note that `clang` is not required, and this compilation example applies to both `clang` ang `gcc` alike.
 
 ---  
 <sup>licensed under the <a href="http://sam.zoy.org/wtfpl/">WTFPL</sup>
